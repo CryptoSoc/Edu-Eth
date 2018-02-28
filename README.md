@@ -12,10 +12,10 @@ The development will not be difficult and aims to accommodate people with variou
   - The app will be an Android App. 
 - The eductional material
   - The app will rely on community contributions and accumulate and summarise information publically available. 
-  - These can be found in [/materials/flashcards](https://github.com/CryptoSoc/Edu-Eth/materials/flashcards)
+  - These can be found in [/materials/flashcards](https://github.com/CryptoSoc/Edu-Eth/tree/master/materials/flashcards)
 - Educational techniques
   - Methods of learning vary and there are many ways to learn material through an app. We aim to accommodate several learning technique to optimize the learning path.
-  - These can be found in [/materials/educational-techniques.md](https://github.com/CryptoSoc/Edu-Eth/materials/educational-techniques.md)
+  - These can be found in [/materials/educational-techniques.md](https://github.com/CryptoSoc/Edu-Eth/tree/master/materials/educational-techniques.md)
 
 
 # Getting Started
